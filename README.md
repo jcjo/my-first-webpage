@@ -2,7 +2,7 @@
 
 #### _My very first webpage I created, October 8, 2018_
 
-#### By _**Jacey Tupa and Katrina Hockman**_
+#### By _**Jacey Tupa, Katrina Hockman, and Daniel Bennett**_
 
 ## Description
 
@@ -30,4 +30,4 @@ _HTML was used to create the project._
 
 *MIT*
 
-Copyright (c) 2016 **_Jacey Tupa and Katrina Hockman_**
+Copyright (c) 2016 **_Jacey Tupa and Katrina Hockman and Daniel Bennett_**
