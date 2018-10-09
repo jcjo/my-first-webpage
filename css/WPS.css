@@ -1,0 +1,18 @@
+html {
+  text-align: center;
+}
+h1 {
+  color: red;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+p {
+  font-family: Georgia;
+  font-style: oblique;
+}
+ul {
+  font-weight: 900;
+}
